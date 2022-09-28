@@ -19,6 +19,7 @@
     - BOOTSTRAP
     - PHP
     - JSON
+    - C#
 - Manutenção e administração de datacenter
 - Microsoft Windows Server (2008/2012/2016/2019)
     - AD
