@@ -7,8 +7,10 @@
 > O SENTIMENTO DE VER SEU CÓDIGO RODAR E RESOLVER UM PROBLEMA DO MUNDO REAL É INDESCRITÍVEL.
 
 ### Minhas graduações 📜
-- Desenho Industrial - Programação Visual (2007-2010)
+- POS TECH - Offensive Cyber Security – Red Team Operations (2025-2026)
 - Engenharia de Software (2021-2024)
+- Desenho Industrial - Programação Visual (2007-2010)
+
 
 ### Minhas habilidades 🧑‍💻 e conhecimentos 🧠
 - Desenvolvimento de websites e aplicações web
