@@ -8,8 +8,8 @@
 
 ### Minhas graduações 📜
 - POS TECH - Offensive Cyber Security – Red Team Operations (2025-2026)
-- Engenharia de Software (2021-2024)
-- Desenho Industrial - Programação Visual (2007-2010)
+- Bacharelado - Engenharia de Software (2021-2024)
+- Bacharelado - Desenho Industrial - Programação Visual (2007-2010)
 
 
 ### Minhas habilidades 🧑‍💻 e conhecimentos 🧠
